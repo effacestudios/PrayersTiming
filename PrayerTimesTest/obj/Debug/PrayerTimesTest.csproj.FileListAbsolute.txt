@@ -1,0 +1,11 @@
+C:\Main\Softwares\Installed\Projects\PrayerTimesTest\PrayerTimesTest\bin\Debug\PrayerTimesTest.exe.config
+C:\Main\Softwares\Installed\Projects\PrayerTimesTest\PrayerTimesTest\bin\Debug\PrayerTimesTest.exe
+C:\Main\Softwares\Installed\Projects\PrayerTimesTest\PrayerTimesTest\bin\Debug\PrayerTimesTest.pdb
+C:\Main\Softwares\Installed\Projects\PrayerTimesTest\PrayerTimesTest\obj\Debug\PrayerTimesTest.csprojAssemblyReference.cache
+C:\Main\Softwares\Installed\Projects\PrayerTimesTest\PrayerTimesTest\obj\Debug\PrayerTimesTest.csproj.CoreCompileInputs.cache
+C:\Main\Softwares\Installed\Projects\PrayerTimesTest\PrayerTimesTest\obj\Debug\PrayerTimesTest.csproj.CopyComplete
+C:\Main\Softwares\Installed\Projects\PrayerTimesTest\PrayerTimesTest\obj\Debug\PrayerTimesTest.exe
+C:\Main\Softwares\Installed\Projects\PrayerTimesTest\PrayerTimesTest\obj\Debug\PrayerTimesTest.pdb
+C:\Main\Softwares\Installed\Projects\PrayerTimesTest\PrayerTimesTest\bin\Debug\Newtonsoft.Json.dll
+C:\Main\Softwares\Installed\Projects\PrayerTimesTest\PrayerTimesTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Main\Softwares\Installed\Projects\PrayerTimesTest\PrayerTimesTest\bin\Debug\Newtonsoft.Json.xml
