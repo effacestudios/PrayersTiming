@@ -36,14 +36,14 @@ namespace PrayerTimesTest
 
             Console.WriteLine(Environment.NewLine);
 
-            Console.WriteLine("Imsak Time: " + result.data.timings.Imsak);
             Console.WriteLine("Fajr Time: " + result.data.timings.Fajr);
             Console.WriteLine("Sunrise Time: " + result.data.timings.Sunrise);
             Console.WriteLine("Duhr Time: " + result.data.timings.Dhuhr);
             Console.WriteLine("Asr Time: " + result.data.timings.Asr);
-            Console.WriteLine("Maghrib Time: " + result.data.timings.Maghrib);
             Console.WriteLine("Sunset Time: " + result.data.timings.Sunset);
+            Console.WriteLine("Maghrib Time: " + result.data.timings.Maghrib);
             Console.WriteLine("Isha Time: " + result.data.timings.Isha);
+            Console.WriteLine("Imsak Time: " + result.data.timings.Imsak);
             Console.WriteLine("Midnight Time: " + result.data.timings.Midnight);
 
             Console.ReadKey();
